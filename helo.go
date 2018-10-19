@@ -10,4 +10,5 @@ func main() {
 		
 	fmt.Println("helo world")
 	fmt.Println(s)
+	fmt.Println(i)
 }
